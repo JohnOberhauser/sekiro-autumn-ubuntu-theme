@@ -13,3 +13,5 @@ at the end of your .bashrc
 [Gnome Shell and Application Theme](https://github.com/JohnOberhauser/sekiro-autumn-gnome-theme)    
 [Atom Syntax Theme](https://atom.io/themes/sekiro-autumn-syntax)    
 [Atom UI Theme](https://atom.io/themes/sekiro-autumn-ui)    
+
+![Alt text](desktop.png)
