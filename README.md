@@ -1,4 +1,9 @@
+## Preface
+
+I did not create the backgrounds, and all of the themes/icon pack are based off of other people's open source work.  I just edited colors to match the background.
+
 ## Instructions
+Apply one of the backgrounds in this repo.    
 For terminal, check out [the color palette](https://github.com/JohnOberhauser/sekiro-autumn-ubuntu-theme/color_palette.yaml) for the profile colors.    
 Add    
 `neofetch --ascii_colors 14 9 13 --colors 9 9 9 9 9 13 --color_blocks off --ascii_distro ubuntu_old`    
